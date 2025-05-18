@@ -9,5 +9,6 @@ public  class hiiii {
         boy sc = new boy(); 
         sc.age=10;
         System.out.println(sc.age);
-    }
+        System.out.print();
+        }
 }
