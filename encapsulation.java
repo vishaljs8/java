@@ -15,6 +15,8 @@ public class encapsulation{
         s1.setAge(29);
          System.out.println(s1.getName());
          System.out.println(s1.getAge());
+         System.out.print(System.currentTimeMillis());
+
         
     }
     
